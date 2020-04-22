@@ -8,9 +8,9 @@ baseurl = 'https://1337x.to'
 user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36'
 headers =  {'User-Agent': user_agent}
 # Your bot token here.
-token = ''
+token = '1282925772:AAEk4yxRGuIXBFBKQxx176i0Xa8yTcjWpW4'
 bot = telegram.Bot(token)
-id = ''
+id = '-1001259383751'
 updater = Updater(token, use_context=True)
 dispatcher = updater.dispatcher
 fileName = 'tor.json'
